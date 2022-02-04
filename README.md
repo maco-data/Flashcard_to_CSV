@@ -11,17 +11,17 @@ Unfortunately creating decks is not easy or fun task specially for decks with hu
 Being able to create a deck via "import" is a big time saver. 
 
 This script is a web-scraping scrip that uses:
-+ Beautiful Soup
-+ Requests
-+ Pandas
++ Beautifulsoup 4.10.0
++ Requests 2.26.0
++ Pandas 1.3.4
 
 I will take the deck from the website, scrape all the information from the front and back of the card and append it to a csv file for easy import into anki.
 
-At the time I created this script I was on python 3.10.0
+At the time I created this script I was on "python 3.10.0".
 
 ### Instructions
 
-1. Answer the prompnt of how many links you will use (make sure to give a numerical value)
+1. Answer the prompnt of how many links you will use (make sure to give a numerical value).
 
 2. Paste the complete url of the deck i.e:
 >https://quizlet.com/347387076/gcp-architect-certification-001-flash-cards/ 
@@ -33,9 +33,9 @@ If there is more than one link then add them one by one, you will be promted (I 
 
 Done!
 
-At the moment of coming up with this Idea I was studying for my Google Cloud Platform certification, therefore I would like to thank these amazing people who took the time to create the decks and the article that took me too them:
-
 ### Appreciation
+
+At the moment of coming up with this Idea I was studying for my Google Cloud Platform certification, therefore I would like to thank these amazing people who took the time to create the decks and the article that took me too them:
 
 Sam Lee [Medium Profile](https://medium.com/@samuel.lee753)
 
