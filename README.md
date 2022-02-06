@@ -24,7 +24,8 @@ At the time I created this script I was on "python 3.10.0".
 1. Answer the prompnt of how many links you will use (make sure to give a numerical value).
 
 2. Paste the complete url of the deck i.e:
->https://quizlet.com/347387076/gcp-architect-certification-001-flash-cards/ 
+>https://quizlet.com/347387076/gcp-architect-certification-001-flash-cards/
+
 If there is more than one link then add them one by one, you will be promted (I look forward to add a batch pasting option in a near future).
 
 3. Be patient! Depending on your computer it may be a fast or slow process to collect the data from all the cards.
@@ -39,9 +40,10 @@ At the moment of coming up with this Idea I was studying for my Google Cloud Pla
 
 Sam Lee [Medium Profile](https://medium.com/@samuel.lee753)
 
-**Article** Free flash cards & practise exams for getting Google Cloud certified [Link](https://medium.com/@samuel.lee753/free-flash-cards-practise-exams-for-getting-google-cloud-certified-ec206c398b4a)
+Medium Article by Sam Lee: 
+"Free flash cards & practise exams for getting Google Cloud certified" [Link](https://medium.com/@samuel.lee753/free-flash-cards-practise-exams-for-getting-google-cloud-certified-ec206c398b4a)
 
-Bill Scott "WJScoot" [Quizlet Profile]("https://quizlet.com/WJScoot/sets")
+Bill Scott "WJScoot" [Quizlet Profile](https://quizlet.com/WJScoot/sets)
 
 "Charlie_Petitpas" [Quizlet Profile](https://quizlet.com/Charlie_Petitpas/sets)
 
